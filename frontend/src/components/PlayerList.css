@@ -1,0 +1,23 @@
+.player-list-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.player-team-column {
+    width: 45%;
+}
+
+.player-team-column h3 {
+    margin-top: 0;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.player-team-column ul {
+    list-style: none;
+    padding: 0;
+} 

@@ -1,0 +1,13 @@
+.word-prompt {
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.word {
+    color: #4CAF50; /* Green */
+}
+
+.word-placeholder {
+    color: #333;
+} 

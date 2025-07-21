@@ -1,0 +1,45 @@
+.enter-name-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #fffef7;
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', sans-serif;
+  color: #4a4a4a;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.input-group input {
+  width: 300px;
+  padding: 15px;
+  border: 3px solid #333;
+  border-radius: 15px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.join-btn {
+  background-color: #89cff0;
+  color: white;
+  padding: 15px 50px;
+  font-size: 1.8rem;
+}
+
+.spectator-link {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #aaa;
+  text-decoration: none;
+} 

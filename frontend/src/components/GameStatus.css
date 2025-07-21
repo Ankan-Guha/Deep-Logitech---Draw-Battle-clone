@@ -1,0 +1,21 @@
+.game-status {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    background: #fffde7;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-family: inherit;
+}
+
+.drawer-status {
+    color: #4caf50;
+    font-weight: bold;
+}
+
+.guessing-status {
+    color: #1976d2;
+    font-weight: bold;
+} 

@@ -1,0 +1,9 @@
+.player-status {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #333;
+    background: #e0f7fa;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-family: inherit;
+} 
